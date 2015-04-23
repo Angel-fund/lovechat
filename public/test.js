@@ -1,11 +1,11 @@
 // 请将 AppId 改为你自己的 AppId，否则无法本地测试
-var appId = '9p6hyhh60av3ukkni3i9z53q1l8yy3cijj6sie3cewft18vm';
+var appId = '43t6vt1te8ninrxsd6hgdibo8alsbuokhx1hnqyhvxac2im6';
 
 // 请换成你自己的一个房间的 conversation id
-var roomId = '551a2847e4b04d688d73dc54';
+var roomId = '5536fcc5e4b0b4ecf2a9aee3';
 
 // 每个客户端自定义的 id
-var clientId = 'LeanCloud';
+var clientId = 'qiuhang';
 
 var rt;
 var room;
