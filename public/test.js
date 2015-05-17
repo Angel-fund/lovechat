@@ -47,7 +47,8 @@ function main() {
         appId: appId,
         clientId: clientId,
         // 是否 HTML 转义，防止 XSS
-        encodeHTML: true
+        encodeHTML: true,
+        secure:false//安全链接
     });
 
     // 监听连接成功事件
